@@ -4,8 +4,7 @@ from discord.ext import commands
 import aiohttp
 from typing import Optional
  
-# ════════════════════════════════════════════════════════════
-# ⚙️  여기에 값을 입력하세요
+
 # ════════════════════════════════════════════════════════════
  
 BOT_TOKEN        = "input_your_token"
